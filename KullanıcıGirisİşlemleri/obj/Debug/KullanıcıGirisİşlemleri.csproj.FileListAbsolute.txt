@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\bin\Debug\KullanıcıGirisİşlemleri.exe.config
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\bin\Debug\KullanıcıGirisİşlemleri.exe
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\bin\Debug\KullanıcıGirisİşlemleri.pdb
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\obj\Debug\KullanıcıGirisİşlemleri.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\obj\Debug\KullanıcıGirisİşlemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\obj\Debug\KullanıcıGirisİşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\obj\Debug\KullanıcıGirisİşlemleri.exe
+C:\Users\hp\Desktop\yeni denemeler\KullanıcıGirisİşlemleri\obj\Debug\KullanıcıGirisİşlemleri.pdb
